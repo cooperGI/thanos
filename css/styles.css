@@ -1,0 +1,173 @@
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+
+}
+
+body{
+	background-color: #6E5E8E;
+}
+
+div img{
+}
+
+#stuff{
+	width: 85%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	min-height: 320px;
+	margin: 0 auto;
+}
+
+.homeimg{
+	border: 20px  ridge #C0CAFF;
+	border-radius: 10px;
+	width: 45%;
+	margin-bottom: 5px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.deathimg{
+	border: 20px  ridge #C0CAFF;
+	border-radius: 10px;
+	width: 55%;
+	margin-bottom: 5px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.titanimg{
+	border: 20px  ridge #C0CAFF;
+	border-radius: 10px;
+	width: 65%;
+	margin-bottom: 5px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.bigimg{
+	border: 20px  ridge #C0CAFF;
+	border-radius: 10px;
+	width: 70%;
+	margin-bottom: 5px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#reset{
+	margin-top: 5px;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #C0CAFF;
+	color: #333D70;
+	font-size: 1.25em;
+	margin: 7px;
+}
+
+#submit{
+	margin-top: 5px;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #C0CAFF;
+	color: #333D70;
+	font-size: 1.25em;
+	margin: 7px;
+}
+
+
+.title{
+	font-size: 2em;
+	color: #333D70;
+	text-align: center;
+}
+
+form{
+	border: 20px  ridge #C0CAFF;
+	border-radius: 10px;
+}
+
+form label{
+	font-size: 1.3em;
+	color: #333D70;
+	padding: 15px;
+}
+
+div p{
+	font-size: 1.5em;
+	color: #333D70;
+	padding-bottom: 10px;
+}
+
+
+
+header{
+	text-align: center;
+	background-color: #48315B;
+}
+
+.fnav a:hover{
+	font-size: 1.1em;
+}
+
+.hnav a:hover{
+	font-size: 1.3em;
+}
+
+nav{
+	width: 100%;
+	text-align: center;
+	background-color: #333D70;
+}
+
+nav ul li{
+	display: inline-block;
+	margin: 5px 10px;
+	font-size: 1.2em;
+}
+
+.fnav ul li{
+	display: inline-block;
+	margin: 5px 10px;
+	font-size: 1em;
+}
+
+nav a{
+	text-decoration: none;
+	color: #C0CAFF;
+}
+
+h1{
+	padding-bottom: 10px;
+	padding-top: 10px;
+	color: #C0CAFF;
+}
+
+h2{
+	
+}
+
+blockquote{
+	
+}
+
+table{
+	
+}
+
+footer{
+	text-align: center;
+	background-color: #48315B;
+	color: #C0CAFF;
+}
+
+footer h4,h5{
+	padding-top: 6px;
+}
